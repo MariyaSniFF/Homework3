@@ -1,0 +1,15 @@
+D:\GeekBrainsWork\Homework3\HWSem3Task1\bin\Debug\net6.0\HWSem3Task1.exe
+D:\GeekBrainsWork\Homework3\HWSem3Task1\bin\Debug\net6.0\HWSem3Task1.deps.json
+D:\GeekBrainsWork\Homework3\HWSem3Task1\bin\Debug\net6.0\HWSem3Task1.runtimeconfig.json
+D:\GeekBrainsWork\Homework3\HWSem3Task1\bin\Debug\net6.0\HWSem3Task1.dll
+D:\GeekBrainsWork\Homework3\HWSem3Task1\bin\Debug\net6.0\HWSem3Task1.pdb
+D:\GeekBrainsWork\Homework3\HWSem3Task1\obj\Debug\net6.0\HWSem3Task1.csproj.AssemblyReference.cache
+D:\GeekBrainsWork\Homework3\HWSem3Task1\obj\Debug\net6.0\HWSem3Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrainsWork\Homework3\HWSem3Task1\obj\Debug\net6.0\HWSem3Task1.AssemblyInfoInputs.cache
+D:\GeekBrainsWork\Homework3\HWSem3Task1\obj\Debug\net6.0\HWSem3Task1.AssemblyInfo.cs
+D:\GeekBrainsWork\Homework3\HWSem3Task1\obj\Debug\net6.0\HWSem3Task1.csproj.CoreCompileInputs.cache
+D:\GeekBrainsWork\Homework3\HWSem3Task1\obj\Debug\net6.0\HWSem3Task1.dll
+D:\GeekBrainsWork\Homework3\HWSem3Task1\obj\Debug\net6.0\refint\HWSem3Task1.dll
+D:\GeekBrainsWork\Homework3\HWSem3Task1\obj\Debug\net6.0\HWSem3Task1.pdb
+D:\GeekBrainsWork\Homework3\HWSem3Task1\obj\Debug\net6.0\HWSem3Task1.genruntimeconfig.cache
+D:\GeekBrainsWork\Homework3\HWSem3Task1\obj\Debug\net6.0\ref\HWSem3Task1.dll
